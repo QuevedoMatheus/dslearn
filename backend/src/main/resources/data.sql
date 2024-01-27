@@ -12,3 +12,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
+
+INSERT INTO tb_course (name, img_Uri, img_Gray_Uri) VALUES ('Curso HTML', 'https://www.cruzeirodosulvirtual.com.br/wp-content/uploads/2023/10/1697457185_curso-profissionalizante-em-analista-de-gestao-escolar.jpeg', 'https://img.freepik.com/vetores-premium/curso-de-programador-profissional-ilustracao-em-vetor-conceito-preto-e-branco_151150-14738.jpg');
