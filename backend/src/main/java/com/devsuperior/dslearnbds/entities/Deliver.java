@@ -111,6 +111,10 @@ public class Deliver {
 		return correctCount;
 	}
 
+	public void setCorrectCount(Integer correctCount) {
+		this.correctCount = correctCount;
+	}
+
 	public Enrollment getEnrollment() {
 		return enrollment;
 	}
